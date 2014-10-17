@@ -1,0 +1,4 @@
+simpletemplate
+==============
+
+testing template host
